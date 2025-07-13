@@ -9,6 +9,6 @@ public class HomeController {
 	@RequestMapping("/message")
 	public String message() {
 		
-		return "will u marry me ";
+		return "will u marry me \\uD83D\\uDC8D ";
 	}
 }
