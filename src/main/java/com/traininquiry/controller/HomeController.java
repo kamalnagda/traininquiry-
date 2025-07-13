@@ -9,6 +9,6 @@ public class HomeController {
 	@RequestMapping("/message")
 	public String message() {
 		
-		return "I LOVE U , Hello Sonal , this message is from you bubu i miss u bubu ,";
+		return "will u marry me ";
 	}
 }
